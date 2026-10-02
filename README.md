@@ -66,7 +66,7 @@ python -X utf8 -m unittest discover -s maintainer/tests -v
 
 贡献须包含实际获评分的论文原件、对应得分及其范围、教师身份、课程、学年与作业类型；有要求、批阅和分项得分时一并提供。
 
-使用 [贡献模板](maintainer/contribution-template.json) 提交文件夹或压缩包。**不要把原件、成绩截图、教师原文批阅或身份映射上传到公开 Issue、讨论或 Pull Request。** 。
+使用 [贡献模板](maintainer/contribution-template.json) 提交文件夹或压缩包。**不要把原件、成绩截图、教师原文批阅或身份映射上传到公开 Issue、讨论或 Pull Request。** 
 
 维护流程见 [蒸馏与更新](maintainer/workflow.md)。公开修改可以提交规则和文档差异，来源核验记录留在私人资料中。
 
