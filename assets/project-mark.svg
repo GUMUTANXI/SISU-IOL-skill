@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SISU-IOL-Skill 项目标识</title>
+  <desc id="desc">深蓝底色上的 SISU IOL 字样，搭配蓝色论文折角与三个相连节点。</desc>
+  <rect width="512" height="512" rx="96" fill="#142B36"/>
+  <path d="M344 72H400L440 112V176H344Z" fill="#235DDD"/>
+  <path d="M400 72V112H440" fill="#6DA6F7"/>
+  <path d="M362 132H416M362 148H400" stroke="#C5DDFF" stroke-width="6" stroke-linecap="round"/>
+  <text x="76" y="155" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700" letter-spacing="5" fill="#C5D7E0">SISU</text>
+  <text x="67" y="333" font-family="Arial, Helvetica, sans-serif" font-size="166" font-weight="700" letter-spacing="-6" fill="#FFFFFF">IOL</text>
+  <path d="M94 391H406" stroke="#587989" stroke-width="4"/>
+  <circle cx="94" cy="391" r="11" fill="#6DA6F7"/>
+  <circle cx="250" cy="391" r="11" fill="#4BB7B2"/>
+  <circle cx="406" cy="391" r="11" fill="#F5F5F1"/>
+</svg>
