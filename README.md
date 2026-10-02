@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/project-mark.svg" alt="SISU-IOL-Skill 项目标识" width="112" height="112">
+</p>
+
 <h1 align="center">SISU-IOL-Skill</h1>
 
 面向 **SISU 语言科学研究院** 同学的**课程论文评价与写作辅助 Skill**。它基于参与过该课程的学长学姐的真实论文、对应成绩、作业要求和教师批阅，将其蒸馏为可供 agent 使用的规则，帮助同学判断：**这份论文作业最值得改哪里、为什么、怎样改。**
