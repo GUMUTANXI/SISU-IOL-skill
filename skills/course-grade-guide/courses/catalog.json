@@ -1,0 +1,332 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-02",
+  "score_prediction_enabled": false,
+  "teachers": [
+    {
+      "teacher_id": "T001",
+      "path": "teachers/T001.md"
+    },
+    {
+      "teacher_id": "T002",
+      "path": "teachers/T002.md"
+    },
+    {
+      "teacher_id": "T003",
+      "path": "teachers/T003.md"
+    },
+    {
+      "teacher_id": "T004",
+      "path": "teachers/T004.md"
+    },
+    {
+      "teacher_id": "T005",
+      "path": "teachers/T005.md"
+    },
+    {
+      "teacher_id": "T006",
+      "path": "teachers/T006.md"
+    },
+    {
+      "teacher_id": "T007",
+      "path": "teachers/T007.md"
+    }
+  ],
+  "courses": [
+    {
+      "course_id": "C001",
+      "name": "形态学",
+      "aliases": [],
+      "path": "courses/C001.md",
+      "offerings": [
+        {
+          "offering_id": "C001-2024-2025-S1-01",
+          "academic_year": "2024-2025",
+          "semester": 1,
+          "section": null,
+          "teacher_ids": [
+            "T001"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "review",
+              "name": "文献总结"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_id": "C002",
+      "name": "句法学",
+      "aliases": [],
+      "path": "courses/C002.md",
+      "offerings": [
+        {
+          "offering_id": "C002-2025-2026-S1-01",
+          "academic_year": "2025-2026",
+          "semester": 1,
+          "section": null,
+          "teacher_ids": [
+            "T001"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "argument",
+              "name": "理论争议论证论文"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_id": "C003",
+      "name": "逻辑学",
+      "aliases": [],
+      "path": "courses/C003.md",
+      "offerings": [
+        {
+          "offering_id": "C003-2025-2026-S1-01",
+          "academic_year": "2025-2026",
+          "semester": 1,
+          "section": null,
+          "teacher_ids": [
+            "T001"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "squib",
+              "name": "比较句分析短文"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_id": "C004",
+      "name": "心理语言学研究方法",
+      "aliases": [],
+      "path": "courses/C004.md",
+      "offerings": [
+        {
+          "offering_id": "C004-2025-2026-S2-01",
+          "academic_year": "2025-2026",
+          "semester": 2,
+          "section": null,
+          "teacher_ids": [
+            "T002"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "report-1",
+              "name": "第一次课堂实验报告"
+            },
+            {
+              "assignment_id": "report-2",
+              "name": "第二次课堂实验报告"
+            },
+            {
+              "assignment_id": "final",
+              "name": "期末研究论文"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_id": "C005",
+      "name": "文化语言学",
+      "aliases": [],
+      "path": "courses/C005.md",
+      "offerings": [
+        {
+          "offering_id": "C005-2025-2026-S2-01",
+          "academic_year": "2025-2026",
+          "semester": 2,
+          "section": null,
+          "teacher_ids": [
+            "T003"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "essay",
+              "name": "课程主题小论文"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_id": "C006",
+      "name": "语言与社会变迁",
+      "aliases": [],
+      "path": "courses/C006.md",
+      "offerings": [
+        {
+          "offering_id": "C006-2025-2026-S1-01",
+          "academic_year": "2025-2026",
+          "semester": 1,
+          "section": null,
+          "teacher_ids": [
+            "T003"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "essay",
+              "name": "课程小论文"
+            },
+            {
+              "assignment_id": "book-review",
+              "name": "相关书评"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_id": "C007",
+      "name": "语言与社会经典阅读",
+      "aliases": [
+        "语言与社会研究经典导读"
+      ],
+      "path": "courses/C007.md",
+      "offerings": [
+        {
+          "offering_id": "C007-2025-2026-S2-01",
+          "academic_year": "2025-2026",
+          "semester": 2,
+          "section": null,
+          "teacher_ids": [
+            "T003"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "reading-report",
+              "name": "经典阅读报告"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_id": "C008",
+      "name": "认知语言学",
+      "aliases": [],
+      "path": "courses/C008.md",
+      "offerings": [
+        {
+          "offering_id": "C008-2025-2026-S2-01",
+          "academic_year": "2025-2026",
+          "semester": 2,
+          "section": "2024级1班",
+          "teacher_ids": [
+            "T004"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "thesis",
+              "name": "课程论文"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_id": "C009",
+      "name": "语用学",
+      "aliases": [],
+      "path": "courses/C009.md",
+      "offerings": [
+        {
+          "offering_id": "C009-2025-2026-S1-01",
+          "academic_year": "2025-2026",
+          "semester": 1,
+          "section": "2024级1班",
+          "teacher_ids": [
+            "T004"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "thesis",
+              "name": "课程论文"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_id": "C010",
+      "name": "认知科学导论",
+      "aliases": [],
+      "path": "courses/C010.md",
+      "offerings": [
+        {
+          "offering_id": "C010-2024-2025-S2-01",
+          "academic_year": "2024-2025",
+          "semester": 2,
+          "section": null,
+          "teacher_ids": [
+            "T005"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "final-cases",
+              "name": "期末案例分析"
+            },
+            {
+              "assignment_id": "midterm",
+              "name": "期中论文"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_id": "C011",
+      "name": "心理语言学",
+      "aliases": [],
+      "path": "courses/C011.md",
+      "offerings": [
+        {
+          "offering_id": "C011-2025-2026-S1-01",
+          "academic_year": "2025-2026",
+          "semester": 1,
+          "section": null,
+          "teacher_ids": [
+            "T006"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "proposal",
+              "name": "Mini Study Proposal"
+            }
+          ],
+          "requirements_status": "confirmed_offering_stale_date_ignored"
+        }
+      ]
+    },
+    {
+      "course_id": "C012",
+      "name": "社会语言学",
+      "aliases": [],
+      "path": "courses/C012.md",
+      "offerings": [
+        {
+          "offering_id": "C012-2025-2026-S2-01",
+          "academic_year": "2025-2026",
+          "semester": 2,
+          "section": null,
+          "teacher_ids": [
+            "T007"
+          ],
+          "assignments": [
+            {
+              "assignment_id": "essay",
+              "name": "期末论文"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

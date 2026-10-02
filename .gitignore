@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+private-work/
+incoming/
+evidence/
+*.docx
+*.pdf
+*.zip
+*.xlsx
+*.csv
+.env
+.env.*
+release-denylist.json

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "contributor_private_id": null,
+  "course": {"name": null, "academic_year": null, "semester": null, "section": null},
+  "teacher": {"known_code": null, "private_real_name": null, "other_graders": []},
+  "assignment": {"type": null, "name": null, "submission_date": null},
+  "files": {"paper": null, "requirements": [], "feedback": [], "grade_evidence": []},
+  "version": {"state": null, "is_the_graded_version": null, "explanation": null},
+  "grade": {"value": null, "maximum": null, "scope": null, "source": null, "components": [], "aggregation_rule": null},
+  "permission": {"right_to_submit": false, "private_analysis": false, "publish_abstract_rules": false, "publish_original": false},
+  "notes": null
+}
